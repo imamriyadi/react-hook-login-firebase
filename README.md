@@ -9,7 +9,7 @@ Masuk Direktory <br>
 
 ## Available Scripts
 
-Install Library:
+Install node_modules :
 
 ### `npm install`
 
