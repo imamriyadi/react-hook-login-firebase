@@ -2,36 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f923747b-2ee1-4c23-874f-31b4d1da17b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AppLoading/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AppLoading/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FirebaseProvider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PrivateRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config/firebase.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config/theme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/404/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/404/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/login/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/login/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/lupa-password/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/lupa-password/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/private/home/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/private/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/private/pengaturan/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/private/pengaturan/pengguna.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/private/pengaturan/toko.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/private/produk/edit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/private/produk/grid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/private/produk/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/private/transaksi/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/registrasi/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/registrasi/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AppPageLoading/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AppPageLoading/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/private/pengaturan/styles/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/private/pengaturan/styles/pengguna.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/private/pengaturan/styles/toko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/private/style.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/login/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/login/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/private/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/private/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/private/pengaturan/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/private/pengaturan/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/private/pengaturan/pengguna.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/private/pengaturan/pengguna.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/private/pengaturan/toko.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/private/pengaturan/toko.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +31,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="imam riyadi &lt;imamriyadi32@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XC75MrK4rHdqkm1uPlwdJ4w1Mb" />
@@ -58,18 +48,23 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages/lupa-password" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -114,30 +109,63 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580538038993</updated>
-      <workItem from="1580538042447" duration="27272000" />
+      <workItem from="1580538042447" duration="40722000" />
+      <workItem from="1581087825298" duration="13703000" />
     </task>
+    <task id="LOCAL-00001" summary="Update Theme">
+      <created>1580923889265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580923889265</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update Theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Theme" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="863" height="210" key="GridCell.Tab.0.bottom" timestamp="1580836179613">
+    <state x="42" y="75" key="#ESLint" timestamp="1580924455104">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="863" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.141.1366.728@0.0.1536.824" timestamp="1580836179613" />
-    <state width="863" height="210" key="GridCell.Tab.0.center" timestamp="1580836179613">
+    <state x="42" y="75" key="#ESLint/0.0.1536.824/1920.141.1366.728@0.0.1536.824" timestamp="1580924455104" />
+    <state x="42" y="75" key="#Inspections" timestamp="1580999505730">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="863" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.141.1366.728@0.0.1536.824" timestamp="1580836179613" />
-    <state width="863" height="210" key="GridCell.Tab.0.left" timestamp="1580836179612">
+    <state x="42" y="75" key="#Inspections/0.0.1536.824/1920.141.1366.728@0.0.1536.824" timestamp="1580999505730" />
+    <state x="449" y="149" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581084788392">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="863" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.141.1366.728@0.0.1536.824" timestamp="1580836179612" />
-    <state width="863" height="210" key="GridCell.Tab.0.right" timestamp="1580836179613">
+    <state x="449" y="149" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824/1920.141.1366.728@0.0.1536.824" timestamp="1581084788392" />
+    <state x="393" y="8" key="CommitChangelistDialog2" timestamp="1580923884890">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="863" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.141.1366.728@0.0.1536.824" timestamp="1580836179613" />
+    <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824/1920.141.1366.728@0.0.1536.824" timestamp="1580923884890" />
+    <state width="864" height="206" key="GridCell.Tab.0.bottom" timestamp="1581162446290">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="864" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.141.1366.728@0.0.1536.824" timestamp="1581162446290" />
+    <state width="864" height="206" key="GridCell.Tab.0.center" timestamp="1581162446289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="864" height="206" key="GridCell.Tab.0.center/0.0.1536.824/1920.141.1366.728@0.0.1536.824" timestamp="1581162446289" />
+    <state width="864" height="206" key="GridCell.Tab.0.left" timestamp="1581162446289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="864" height="206" key="GridCell.Tab.0.left/0.0.1536.824/1920.141.1366.728@0.0.1536.824" timestamp="1581162446289" />
+    <state width="864" height="206" key="GridCell.Tab.0.right" timestamp="1581162446290">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="864" height="206" key="GridCell.Tab.0.right/0.0.1536.824/1920.141.1366.728@0.0.1536.824" timestamp="1581162446290" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1580923922041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.141.1366.728@0.0.1536.824" timestamp="1580923922041" />
     <state x="112" y="145" key="search.everywhere.popup" timestamp="1580541680061">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

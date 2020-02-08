@@ -103,7 +103,6 @@ function Login(props) {
             location.state.from &&
             location.state.from.pathname?
             location.state.from.pathname :'/';
-        console.log(redirectTo);
         return <Redirect to={redirectTo}  />
 
     }
