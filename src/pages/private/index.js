@@ -136,7 +136,7 @@ export default function Private() {
                                    button
                                    selected={match ? true : false}
                                    onClick={() => {
-                                       history.push('/pengaturan')
+                                       history.push('/pengaturan/pengguna')
                                    }}>
                                    <ListItemIcon>
                                        <SettingIcon/>
